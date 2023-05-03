@@ -22,6 +22,8 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@sentry/svelte": "^7.50.0"
+		"@jridgewell/sourcemap-codec": "^1.4.15",
+		"@sentry/svelte": "^7.50.0",
+		"instead": "^1.0.3"
 	}
 }
