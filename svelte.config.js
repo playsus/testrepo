@@ -1,13 +1,7 @@
-import adapter from '@sveltejs/adapter-static';
+import azure from 'svelte-adapter-azure-swa';
 
 export default {
-    kit: {
-        adapter: adapter({
-            pages: 'build',
-            assets: 'build',
-            fallback: undefined,
-            precompress: true,
-            strict: true
-        })
-    }
+	kit: {
+		adapter: azure()
+	}
 };
