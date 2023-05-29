@@ -1,6 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<sitemap>
-<loc>https://voldmc.com/sitemaps/sitemap-1.xml</loc>
-</sitemap>
-</sitemapindex>
+<?xml version="1.0" encoding="utf-8"?> 
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"> 
+<url>
+<loc>https://chlorinemc.com/</loc>
+<priority>1.0</priority>
+<changefreq>always</changefreq>
+</url>
+<url>
+<loc>https://chlorinemc.com/rules</loc>
+<priority>1.0</priority>
+<changefreq>always</changefreq>
+</url>
+<url>
+<loc>https://chlorinemc.com/vote</loc>
+<priority>1.0</priority>
+<changefreq>always</changefreq>
+</url>
+<url>
+<loc>https://chlorinemc.com/staff</loc>
+<priority>1.0</priority>
+<changefreq>always</changefreq>
+</url>
+<url>
+<loc>https://chlorinemc.com/maps</loc>
+<priority>1.0</priority>
+<changefreq>always</changefreq>
+</url>
+<url>
+<loc>https://chlorinemc.com/sitemap</loc>
+<priority>1.0</priority>
+<changefreq>always</changefreq>
+</url>
+</urlset>
